@@ -1,0 +1,5 @@
+@startuml
+
+User -> (Suc_ControlarContato)
+
+@enduml
