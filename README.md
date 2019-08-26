@@ -1,6 +1,6 @@
 ﻿# Projeto Agenda Eletrônica
 
-##Ao executar o projeto ele terá 4 funcionalidades
+## Ao executar o projeto ele terá 4 funcionalidades
 
 ### 1-Adicionar um contato
 A informação digitada pelo usuário é armazenada em um array assim um BufferWriter é inicializado e guarda os contatos no banco de dados
