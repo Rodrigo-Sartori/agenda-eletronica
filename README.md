@@ -1,12 +1,12 @@
 ﻿# Projeto Agenda Eletrônica
 
-Ao executar o projeto ele terá 5 funcionalidades
+##Ao executar o projeto ele terá 4 funcionalidades
 
 ### 1-Adicionar um contato
 A informação digitada pelo usuário é armazenada em um array assim um BufferWriter é inicializado e guarda os contatos no banco de dados
 
 <div align="center">
-      <img  src="docs-da-agenda/imagem-inserir.png" style="max-height:120; width:60; height: auto; max-width:100%" />
+      <img  src="docs-da-agenda/imagem-inserir.PNG" style="max-height:120; width:60; height: auto; max-width:100%" />
 </div>
 
 ### 2-Deletar um contato
@@ -29,10 +29,19 @@ O usuário digitará o nome do contato ou parte do nome e o sistema mostrará os
 
 
 
-#Documentação
+## Documentação
 
 - Diagrama de Caso de Uso
 <div align="center">
       <img  src="docs-da-agenda/Diagrama-UC.png" style="max-height:120; width:60; height: auto; max-width:100%" />
 </div>
 
+- Diagrama de Classe
+<div align="center">
+      <img  src="docs-da-agenda/Diagrama-Classe.png" style="max-height:120; width:60; height: auto; max-width:100%" />
+</div>
+
+- Diagrama de Sequência
+<div align="center">
+      <img  src="docs-da-agenda/Diagrama-sequencia.png" style="max-height:120; width:60; height: auto; max-width:100%" />
+</div>
